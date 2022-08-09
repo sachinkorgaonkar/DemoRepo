@@ -9,5 +9,12 @@ public class HomePage {
 			System.out.println("Home Page method");
 		}
 	
+		public void home_page_one()
+		{
+			
+			System.out.println("Home Page  one method");
+		
+			
+		}
 
 }
